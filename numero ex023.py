@@ -1,0 +1,7 @@
+frase = int(input('Insira um número '))
+f = str(frase)
+print(f'Analisando o número {f}')
+print(f'Há {f[0]} de unidade de Milhar')
+print(f'Há {f[1]} de unidade de centena')
+print(f'Há {f[2]} de unidade de dezena')
+print(f'Há {f[3]} unidade')
